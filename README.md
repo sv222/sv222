@@ -9,7 +9,7 @@ I have a strong technical background in software development and IT operations, 
 🙌 
 Overall, I'm committed to continuous improvement, collaboration, and innovation in software development and support. I believe in the power of open source technology and the principles of DevOps, and I'm excited to be part of a community that's driving positive change in the world of software. 
 
-## I am inspired by:
+## ❤️ I am inspired by:
 
 ![Go](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
@@ -18,7 +18,7 @@ Overall, I'm committed to continuous improvement, collaboration, and innovation 
 ![Ansible](https://img.shields.io/badge/Ansible-090909?style=for-the-badge&logo=ansible&logoColor=EE0000)
 
 
-## My GitHub activity:
+## ⭐ My GitHub activity:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv222&langs_count=5&layout=compact&theme=dracula" alt="Top Languages" style="width: 200; height: 170px;">
