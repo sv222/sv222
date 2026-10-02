@@ -15,8 +15,6 @@
 ![Go](https://img.shields.io/badge/Go-090909?style=flat&logo=go&logoColor=00ADD8)
 ![Python](https://img.shields.io/badge/Python-090909?style=flat&logo=python&logoColor=3776AB)
 
-[LinkedIn](https://www.linkedin.com/in/stanislav-v)
-
 ### ⭐ My GitHub activity:
 
 <div style="display: flex; flex-wrap: wrap;">
