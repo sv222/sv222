@@ -1,13 +1,23 @@
 # Hi, I'm Stanislav 👋 
 
-💻 
-I'm a DevOps specialist who's passionate about open source software and staying up-to-date with the latest trends and best practices in software development, support and monitoring. 
+### Senior DevOps, Cloud & Platform Engineer
 
-🚀 
-I have a strong technical background in software development and IT operations, and I'm experienced in modern DevOps practices and tools. I love contributing to the open source community, and I'm always seeking out new opportunities to learn and collaborate with other developers. 
+SRE · MLOps / AI Infrastructure
 
-🙌 
-Overall, I'm committed to continuous improvement, collaboration, and innovation in software development and support. I believe in the power of open source technology and the principles of DevOps, and I'm excited to be part of a community that's driving positive change in the world of software. 
+15 years in software, 6+ years building and running production cloud and Kubernetes platforms for enterprise clients (GlobalLogic, Accenture) in automotive, banking and telecom. Current focus: internal developer platforms, CI/CD at scale, and GPU / LLM infrastructure for AI teams.
+
+![AWS](https://img.shields.io/badge/AWS-090909?style=flat&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-090909?style=flat&logo=microsoft-azure&logoColor=0078D4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=flat&logo=kubernetes&logoColor=326CE5)
+![Terraform](https://img.shields.io/badge/Terraform-090909?style=flat&logo=terraform&logoColor=7B42BC)
+![Argo CD](https://img.shields.io/badge/Argo_CD-090909?style=flat&logo=argo&logoColor=EF7B4D)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-090909?style=flat&logo=githubactions&logoColor=2088FF)
+![Prometheus](https://img.shields.io/badge/Prometheus-090909?style=flat&logo=prometheus&logoColor=E6522C)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-090909?style=flat&logo=kubeflow&logoColor=0081CE)
+![Go](https://img.shields.io/badge/Go-090909?style=flat&logo=go&logoColor=00ADD8)
+![Python](https://img.shields.io/badge/Python-090909?style=flat&logo=python&logoColor=3776AB)
+
+[LinkedIn](https://www.linkedin.com/in/stanislav-v)
 
 ## ❤️ I am inspired by:
 
