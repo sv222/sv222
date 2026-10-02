@@ -1,10 +1,8 @@
 # Hi, I'm Stanislav 👋 
 
-### Senior DevOps, Cloud & Platform Engineer
+## Senior DevOps, Cloud & Platform Engineer
 
-SRE · MLOps / AI Infrastructure
-
-15 years in software, 6+ years building and running production cloud and Kubernetes platforms for enterprise clients (GlobalLogic, Accenture) in automotive, banking and telecom. Current focus: internal developer platforms, CI/CD at scale, and GPU / LLM infrastructure for AI teams.
+15 years in software, 6+ years building and running production cloud and Kubernetes platforms for enterprise clients in automotive, banking and telecom. Current focus: internal developer platforms, CI/CD at scale, and GPU / LLM infrastructure for AI teams.
 
 ![AWS](https://img.shields.io/badge/AWS-090909?style=flat&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Azure-090909?style=flat&logo=microsoft-azure&logoColor=0078D4)
@@ -19,17 +17,7 @@ SRE · MLOps / AI Infrastructure
 
 [LinkedIn](https://www.linkedin.com/in/stanislav-v)
 
-## ❤️ I am inspired by:
-
-![Go](https://img.shields.io/badge/Go-090909?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
-![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-090909?style=for-the-badge&logo=microsoft-azure&logoColor=FF9900)
-![Terraform](https://img.shields.io/badge/Terraform-090909?style=for-the-badge&logo=terraform&logoColor=7B42BC)
-![Ansible](https://img.shields.io/badge/Ansible-090909?style=for-the-badge&logo=ansible&logoColor=EE0000)
-
-
-## ⭐ My GitHub activity:
+### ⭐ My GitHub activity:
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sv222&langs_count=5&layout=compact&theme=dracula" alt="Top Languages" style="width: 200; height: 170px;">
