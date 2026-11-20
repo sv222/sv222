@@ -2,6 +2,8 @@
 
 Platform & Systems Engineer. Building tools in Go for Kubernetes, internal developer platforms, and AI workloads.
 
+[![Email](https://img.shields.io/badge/Email-Write%20me-1F2937?style=flat&logo=firefoxbrowser&logoColor=white)](mailto:jq8p8pbaz@mozmail.com)
+
 #### Projects
 
 * **[kshield](https://github.com/sv222/kshield)** — Kubernetes AI workload scanner with DORA evidence reports. Checks vLLM, Ollama, KubeRay, KServe, Qdrant and Milvus, writes text, JSON, HTML, PDF and SARIF reports, signed evidence bundles, and Cilium, Tetragon and Kyverno remediation policies.
