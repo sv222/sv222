@@ -1,6 +1,6 @@
 ### Hi, I'm Stanislav
 
-Platform & Systems Engineer. Building tools in Go for Kubernetes, internal developer platforms, and AI workloads.
+DevOps & Platform Engineer working with Kubernetes, AWS and Azure. Building open-source Go tools for Kubernetes security, compliance (NIS2, DORA) and AI workloads.
 
 [![Email](https://img.shields.io/badge/Email-Write%20me-1F2937?style=flat&logo=firefoxbrowser&logoColor=white)](mailto:jq8p8pbaz@mozmail.com)
 
